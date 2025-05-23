@@ -27,5 +27,5 @@ To visualize and analyze how economic development impacts vaccination rates acro
 - `GDP_Vaccination.pbix`: Full Power BI dashboard (requires Power BI Desktop to open)
 
 ## 🖼️ Screenshots
-Some images of the dashboard
+- ![alt text](https://github.com/shahlashaan/powerbi-vaccination-gdp/blob/main/Screenshots/Canada.png)
 
